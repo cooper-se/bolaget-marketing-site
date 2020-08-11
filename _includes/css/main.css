@@ -25,6 +25,12 @@ html { box-sizing: border-box; }
   #{{id}} .sectiondivider { color: {{ bg }}; }
 {% endfor %}
 
+{% for node in site.posts %}
+  {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+  {% if node.bg-img %}
+    #{{id}} { background: url({{ node.bg-img }}) !important; }
+  {% endif %}
+{% endfor %}
 
 /* ----- code, syntax highlighting, etc ----- */
 
