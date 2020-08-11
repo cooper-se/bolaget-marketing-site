@@ -20,7 +20,11 @@
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+        {% if node.custom-nav %}
+        <li class="p-{{id}}"><a href="#{{node.custom-nav}}">{{node.title}}</a></li>
+        {% else %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+        {% endif %}
       {% endfor %}
     </ul></nav>
 
