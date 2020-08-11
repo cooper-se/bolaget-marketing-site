@@ -1,8 +1,5 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Copyright ©2020 All rights reserved
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+This page was made with the [SinglePaged theme](https://github.com/t413/SinglePaged)
