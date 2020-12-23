@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Todo Company"
+title:       "Nordic Alcohol Data Project"
 keywords:    ""
 description: "Todo some decription"
 source_link: "https://github.com/cooper-se"

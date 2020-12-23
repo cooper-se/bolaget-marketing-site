@@ -1,1 +1,1 @@
-Copyright ©2020 Todo Company
+Copyright ©2020 Nordic Alcohol Data Project
