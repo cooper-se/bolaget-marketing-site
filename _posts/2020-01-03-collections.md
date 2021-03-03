@@ -24,14 +24,14 @@ custom-nav: collections-navpoint
   </div>
   <div class="column">
     <h2 style="text-align:left;">Near-real-time</h2>
-    <p style="text-align:left;">Explain what "near-real-time" means and talk about why reacting quickly might be important</p>
+    <p style="text-align:left;">Live data, updated multiple times a day. No more waiting for infrequent reporting from alcohol monopolies. Our partners can make business decisions with data updated multiple times a day.</p>
   </div>
 </div>
 <br/>
 <div class="row">
   <div class="column">
     <h2 style="text-align:left;">Historical</h2>
-    <p style="text-align:left;">Talk about seeing trends, tracking changes, be notified about changes etc and how this is the only place you can do that</p>
+    <p style="text-align:left;">See the trends and track changes. Setup custom notifications.</p>
   </div>
   <div class="column">
     <img src="/img/graph.jpg" height="600">
@@ -44,13 +44,13 @@ custom-nav: collections-navpoint
   </div>
   <div class="column">
     <h2 style="text-align:left;">Geographical</h2>
-    <p style="text-align:left;">Talk about why this might matter. Directing marketing to where stock is for example?</p>
+    <p style="text-align:left;">Understand the geography of how your product is stocked and sold.</p>
   </div>
 </div>
 <div class="row">
   <div class="column">
     <h2 style="text-align:left;">Easy to consume</h2>
-    <p style="text-align:left;">Talk about why this might matter. And maybe some examples?</p>
+    <p style="text-align:left;">Consume in any way you want. Download files, use our API or even use our mobile app</p>
   </div>
   <div class="column">
     <img src="/img/easytoconsume.jpg" height="600">

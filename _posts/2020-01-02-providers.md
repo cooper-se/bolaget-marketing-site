@@ -10,7 +10,7 @@ custom-nav: data-providers-navpoint
 <p id="data-providers-navpoint"></p>
 ### Full access to data on inventory, stock levels, stores and sales
 
-### that's near real-time and easy to consume
+### Near real-time and easy to consume
 
 <br/>
 

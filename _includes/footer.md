@@ -1,1 +1,1 @@
-Copyright ©2020 Nordic Alcohol Data Project
+Copyright ©2020 Nordic Alcohol Market Insights
