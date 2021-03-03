@@ -5,3 +5,4 @@ This is a compressed-commit version of
 jekyll serve -w
 
 https://bolaget-site.netlify.app/
+https://alcoholmarketdata.se/
