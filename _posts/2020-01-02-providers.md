@@ -14,5 +14,8 @@ custom-nav: data-providers-navpoint
 <br/>
 
 ### Multi-market. Including Systembolaget, Vinmonopolet, Alko and Vínbúðin
-<br/>
-<img src="/img/flags.jpg" width="500">
+
+<img src="/img/flagOfSweden.svg" width="100">
+<img src="/img/flagOfNorway.svg" width="100">
+<img src="/img/flagOfFinland.svg" width="100">
+<img src="/img/flagOfIceland.svg" width="100">
